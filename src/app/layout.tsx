@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SIH Toofani Hackathon | Smart Tourism Safety Platform",
+  title: "SIH CodeXcelerators Hackathon | Smart Tourism Safety Platform",
   description: "A real-world platform for safe, smart, and connected travel. Emergency help, lost ID, health, and network solutions for tourists.",
   icons: {
     icon: "/favicon.svg",

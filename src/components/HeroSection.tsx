@@ -21,7 +21,7 @@ const HeroSection: React.FC = () => (
             </a>
           </div>
         </div>
-        <div className="md:w-1/2">
+        <div className="md:w-1/2 hover:scale-105 transition-transform duration-300">
           <Image
             src="/hero-illustration 1.svg"
             alt="Custom SVG illustration of travelers with a smart ID and SOS button"

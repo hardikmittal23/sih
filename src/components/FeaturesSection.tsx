@@ -29,7 +29,7 @@ const FeaturesSection: React.FC<{ features: Feature[] }> = ({ features }) => (
         </div>
       </div>
     </section>
-    <section className="py-16 md:py-24 bg-white" aria-labelledby="features-heading">
+    {/* <section className="py-16 md:py-24 bg-white" aria-labelledby="features-heading">
       <div className="container mx-auto px-4 md:px-8">
         <h2 id="features-heading" className="text-4xl md:text-5xl font-extrabold text-center text-blue-900 mb-16 tracking-tight">
           Key Features
@@ -49,7 +49,7 @@ const FeaturesSection: React.FC<{ features: Feature[] }> = ({ features }) => (
           ))}
         </div>
       </div>
-    </section>
+    </section> */}
   </>
 );
 

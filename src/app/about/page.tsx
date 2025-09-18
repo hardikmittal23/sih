@@ -5,7 +5,7 @@ const AboutPage: React.FC = () => (
   <main className="container mx-auto px-6 py-16">
     <h1 className="text-4xl font-extrabold text-blue-900 mb-6">About Us</h1>
     <p className="text-lg text-gray-700 mb-4">
-      <strong>Team:</strong> Toofani Developers<br/>
+      <strong>Team:</strong>CodeXcelerators<br/>
       <strong>Hackathon:</strong> Smart India Hackathon 2025<br/>
       <strong>Problem Statement ID:</strong> 25002<br/>
       <strong>Theme:</strong> Travel & Tourism<br/>

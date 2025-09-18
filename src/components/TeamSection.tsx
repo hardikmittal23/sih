@@ -24,17 +24,17 @@ function TeamSection() {
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">UI/UX Designer</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg flex flex-col items-center transition-transform transform hover:scale-105 hover:shadow-2xl">
-              <Image src="/avatar3.svg" alt="Team Member 3" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
+              <Image src="/avatar3.svg" alt="Team Member 4" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
               <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-2 leading-tight">Yogane</h3>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">Member</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg flex flex-col items-center transition-transform transform hover:scale-105 hover:shadow-2xl">
-              <Image src="/avatar3.svg" alt="Team Member 3" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
+              <Image src="/avatar3.svg" alt="Team Member 5" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
               <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-2 leading-tight">Nayan Sharma</h3>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">Member</p>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg flex flex-col items-center transition-transform transform hover:scale-105 hover:shadow-2xl">
-              <Image src="/avatar3.svg" alt="Team Member 3" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
+              <Image src="/avatar3.svg" alt="Team Member 6" width={96} height={96} className="w-24 h-24 rounded-full mb-4" />
               <h3 className="text-xl md:text-2xl font-bold text-gray-800 mb-2 leading-tight">Kartik Sharma</h3>
               <p className="text-gray-600 text-base md:text-lg leading-relaxed">Member</p>
             </div>
