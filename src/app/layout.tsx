@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     icon: "/favicon.svg",
   },
   openGraph: {
-    title: "SIH Toofani Hackathon | Smart Tourism Safety Platform",
+    title: "SIH CodeXcelerators Hackathon | Smart Tourism Safety Platform",
     description: "A real-world platform for safe, smart, and connected travel. Emergency help, lost ID, health, and network solutions for tourists.",
     images: [
       {
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "SIH Toofani Hackathon | Smart Tourism Safety Platform",
+    title: "SIH CodeXcelerators Hackathon | Smart Tourism Safety Platform",
     description: "A real-world platform for safe, smart, and connected travel. Emergency help, lost ID, health, and network solutions for tourists.",
     images: ["/globe.svg"],
   },
