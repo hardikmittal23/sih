@@ -13,10 +13,10 @@ const HeroSection: React.FC = () => (
             An AI, Blockchain & IoT powered solution for real-time tourist protection.
           </p>
           <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 justify-center md:justify-start">
-            <a href="#" className="inline-block px-8 py-3 bg-blue-600 text-white text-lg font-bold rounded-full shadow-lg hover:bg-blue-700 transition duration-300 transform hover:scale-105">
+            <a href="#" className="inline-block px-8 py-3 bg-blue-600 text-white text-lg font-bold rounded-full shadow-lg transition duration-300 transform hover:scale-105 hover:bg-white hover:text-blue-600">
               Download App
             </a>
-            <a href="#" className="inline-block px-8 py-3 bg-white text-blue-600 text-lg font-bold rounded-full border-2 border-blue-600 shadow-md hover:bg-gray-100 transition duration-300 transform hover:scale-105">
+            <a href="#" className="inline-block px-8 py-3 bg-white text-blue-600 text-lg font-bold rounded-full border-2 border-blue-600 shadow-md transition duration-300 transform hover:scale-105 hover:bg-blue-600 hover:text-white">
               See How It Works
             </a>
           </div>

@@ -31,12 +31,12 @@ const ProblemStatementSection: React.FC = () => (
             <h3 className="text-xl font-bold text-gray-800">Health Emergency</h3>
           </div>
         </div>
-        <div className="w-full sm:w-1/2 lg:w-1/4 px-4 mb-8">
+        {/* <div className="w-full sm:w-1/2 lg:w-1/4 px-4 mb-8">
           <div className="bg-white p-6 rounded-xl shadow-lg border-t-4 border-blue-500">
             <Image src="/delayed-help.svg" alt="Late emergency response icon" className="mx-auto mb-4" width={100} height={100} loading="lazy" />
             <h3 className="text-xl font-bold text-gray-800">Delayed Help</h3>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   </section>
